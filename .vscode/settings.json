@@ -1,3 +1,5 @@
 {
-    "cmake.sourceDirectory": "/Users/anusha/bci-flappy-bird/mvp/src/PlotJuggler/plotjuggler_plugins/DataLoadParquet"
+    "cmake.sourceDirectory": "/Users/anusha/bci-flappy-bird/mvp/src/PlotJuggler/plotjuggler_plugins/DataLoadParquet",
+    "python-envs.defaultEnvManager": "ms-python.python:conda",
+    "python-envs.defaultPackageManager": "ms-python.python:conda"
 }
